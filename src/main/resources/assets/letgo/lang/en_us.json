@@ -1,0 +1,13 @@
+{
+  "itemGroup.letgo": "Example Mod Tab",
+  "block.letgo.example_block": "Example Block",
+  "item.letgo.example_item": "Example Item",
+
+  "letgo.configuration.title": "Let Go Configs",
+  "letgo.configuration.section.letgo.common.toml": "Let Go Configs",
+  "letgo.configuration.section.letgo.common.toml.title": "Let Go Configs",
+  "letgo.configuration.items": "Item List",
+  "letgo.configuration.logDirtBlock": "Log Dirt Block",
+  "letgo.configuration.magicNumberIntroduction": "Magic Number Text",
+  "letgo.configuration.magicNumber": "Magic Number"
+}
